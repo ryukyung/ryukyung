@@ -1,16 +1,16 @@
 ### Hi there 👋
+<div align=center>
 
 <a href="https://opgc.me/#/users/ryukyung" target="_blank"><img src="https://api.opgc.me/githubs/users/ryukyung/tag/?theme=basic" /></a>
-
-![ryukyung](https://github-readme-stats.vercel.app/api?username=ryukyung&show_icons=true&theme=prussian)
-[![ryukyung](https://github-readme-stats.vercel.app/api/top-langs/?username=ryukyung&layout=compact&show_icons=true&theme=prussian)](https://github.com/ryukyung)
-
-
-
-[![ryukyung123](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukyung123)](https://solved.ac/ryukyung123)
-
-
-
-
+  <br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryukyung&show_icons=true&theme=prussian" width=49.0% />
+</a>
+<a href="https://github.com/devpla/github-stats-transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukyung&layout=compact&theme=prussian" width=41.0% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=ryukyung&theme=react-dark" width=90%/>
 </a>
+  
+</div>
