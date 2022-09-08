@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align=center>
+<!--<div align=center>
   <a href="https://opgc.me/#/users/ryukyung" target="_blank">
     <img src="https://api.opgc.me/githubs/users/ryukyung/tag/?theme=basic" />
    </a>
@@ -13,4 +13,4 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=ryukyung&theme=react-dark" width=90%/>
   </a>
-</div>
+</div>-->
